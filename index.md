@@ -4,7 +4,7 @@ This is my new blog where I will write about **gaming, Fortnite, Minecraft, and 
 
 ## Latest Posts
 
-- [My First Blog Post](my-first-post.md)  
+- [My posts:](my-first-post.md)  
   *An introduction to my blog and what I'll be writing about!*  
 
 - [Why I Love Fortnite](why-i-love-fortnite.md)  

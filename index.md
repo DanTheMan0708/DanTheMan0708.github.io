@@ -1,4 +1,4 @@
-# Welcome to My Blog!
+# Welcome to my Blog!
 
 This is my new blog where I will write about **gaming, Fortnite, Minecraft, and tech**.
 

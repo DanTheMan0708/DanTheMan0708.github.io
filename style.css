@@ -8,3 +8,26 @@ h1 {
 }
 theme: jekyll-theme-midnight
 include: [style.css]
+
+
+/* Change background color around Disqus */
+#disqus_thread {
+    background-color: #1a1a1a; /* Dark gray background */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Make Disqus iframe wider */
+#disqus_thread iframe {
+    max-width: 100% !important;
+}
+
+/* Change text color */
+#disqus_thread * {
+    color: white !important;
+}
+
+/* Links inside Disqus */
+#disqus_thread a {
+    color: #00bfff !important; /* Light blue links */
+}

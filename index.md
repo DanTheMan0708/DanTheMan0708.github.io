@@ -13,6 +13,6 @@ This is my new blog where I will write about **gaming, Fortnite, Minecraft, and 
 - [Why I Love Minecraft](why-i-love-minecraft.md)  
   *Exploring the endless creativity of Minecraft and why it's one of the best games ever made!*  
 
--[Why I love tech](why-i-love-minecraft.md)
- *Tech has always been interesting to me. I makes our lives so much easier!*
+ -[Why I love tech](why-i-love-minecraft.md)
+  *Tech has always been interesting to me. I makes our lives so much easier!*
 Stay tuned for more!

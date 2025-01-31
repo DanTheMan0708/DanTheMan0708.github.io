@@ -15,6 +15,12 @@ This is my new blog where I will write about **gaming, Fortnite, Minecraft, and 
 
 
 
+
+
+
+
+
+
 <div id="disqus_thread"></div>
 <script>
     /**

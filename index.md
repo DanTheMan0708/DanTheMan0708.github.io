@@ -17,14 +17,7 @@ Please join our discord server!
 
     
     
- ---
----
 
-@import "{{ site.theme }}";
-
-header {
-  display: none;
-}   
     
     
     

@@ -28,8 +28,6 @@ Please join our discord server!
 
 
 
-    github:
-  is_project_page: false
     
     
     

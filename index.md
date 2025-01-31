@@ -6,9 +6,15 @@ This is my new blog where I will write about **gaming, Fortnite, Minecraft, and 
 
 ## 📖 Read My Blog
 [Click here to see all posts](/blog.html)
+
+
 Please comment and share my blog to all your friends
 
-Please join our discord server! [https://discord.gg/HS6TabVCnC]
+
+Please join our discord server! 
+
+<a href="https://discord.gg/HS6TabVCnC" target="_blank" class="discord-button">Join our Discord</a>
+
     
     
     

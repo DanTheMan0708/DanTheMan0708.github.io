@@ -24,11 +24,29 @@ Please join our discord server!
     
     
 
-
+{% _show_repo_url = site.show_repository_url | default: true %}
+{% if site.show_downloads or site.github.is_project_page and _show_repo_url %}
+     <section id="downloads">
+     {% if site.show_downloads %}
+         <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
+         <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
+      {% endif %}
+      {% if site.github.is_project_page and _show_repo_url %}
+          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+      {% endif %}
+      </section>
+{% endif %}
 
 
 
     
+
+
+
+
+
+
+
     
     
 <div id="disqus_thread"></div>

@@ -1,7 +1,9 @@
----
 
 
-![Fortnite](assets/images/assets/images/header.png)
+
+![Fortnite Header](/assets/images/header.png)
+
+
 ---
 layout: default
 title: "Why I like Fortnite"

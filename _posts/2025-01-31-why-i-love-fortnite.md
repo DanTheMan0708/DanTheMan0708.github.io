@@ -1,11 +1,14 @@
 ---
+<img src="/assets/images/header.png" alt="Fortnite Tech Header" style="width: 100%; height: auto;">
+
+
+---
 layout: default
 title: "Why I like Fortnite"
 date: 2025-01-30
 ---
 
 
-![Fortnite Header](assets/images/header.png.)
 
 
 

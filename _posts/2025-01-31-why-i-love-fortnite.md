@@ -1,5 +1,9 @@
 ---
-<img src="assets/images/assets/images/header.png." alt="Fortnite Tech Header" style="width: 100%; height: auto;">
+
+
+git add assets/images/assets/images/header.png.
+git commit -m "Added header image"
+git push origin main
 
 
 ---

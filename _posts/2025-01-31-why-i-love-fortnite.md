@@ -5,7 +5,7 @@ date: 2025-01-30
 ---
 
 
-<img src="/assets/images/header.png" alt="Blog Header">
+![Fortnite Header]()
 
 
 

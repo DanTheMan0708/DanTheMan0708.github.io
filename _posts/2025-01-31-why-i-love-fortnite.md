@@ -1,7 +1,7 @@
 
 
 
-![Fortnite Header](../assets/images/header.png)
+![Fortnite Header](/assets/images/header.png)
 
 
 ---

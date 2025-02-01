@@ -5,7 +5,7 @@ date: 2025-01-30
 ---
 
 
-![Fortnite Header]()
+![Fortnite Header](assets/images/header.png.)
 
 
 

@@ -1,5 +1,5 @@
 ---
-<img src="/assets/images/header.png" alt="Fortnite Tech Header" style="width: 100%; height: auto;">
+<img src="assets/images/assets/images/header.png." alt="Fortnite Tech Header" style="width: 100%; height: auto;">
 
 
 ---

@@ -1,11 +1,7 @@
 ---
 
 
-git add assets/images/assets/images/header.png.
-git commit -m "Added header image"
-git push origin main
-
-
+![alt text]()
 ---
 layout: default
 title: "Why I like Fortnite"

@@ -1,15 +1,14 @@
-
+---
+layout: default
+title: "Why I Like Fortnite"
+date: 2025-01-30
+---
 
 
 ![Fortnite Header](/assets/images/header.png)
 
 
 
----
-layout: default
-title: "Why I Like Fortnite"
-date: 2025-01-30
----
 
 
 

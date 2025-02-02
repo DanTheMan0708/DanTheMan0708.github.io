@@ -30,5 +30,5 @@ Fortnite is a very fun and competitive game. It’s one of the most popular game
 
 For me, it was very fun and challenging to learn all these things. I still warm up in creative maps before I start playing Ranked Reload. Reload is my favorite gamemode because when you die and are playing solos, you don't have to wait too long to queue for the next match—you can instantly respawn and do that twice before having to queue again. I can play this gamemode for a pretty long time without getting bored. If I get bored, I’ll probably switch to watching a series, movie, or just start playing Minecraft. I won’t play Roblox, though—I may be a Fortnite and Minecraft player, but no, I am not a Robloxer. 😎
 
-Hi
+
 

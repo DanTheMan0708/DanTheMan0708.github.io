@@ -1,5 +1,4 @@
-![Fortnite Header](assets/images/page_front.png)
-
+<img src="assets/images/page_front.png" alt="hearder" style="height: 200px; width: auto;">
 
 # Welcome to My Blog!
 

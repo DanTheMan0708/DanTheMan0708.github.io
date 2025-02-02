@@ -13,7 +13,7 @@ Please comment and share my blog to all your friends
 
 Please join our discord server! 
 
-<a href="https://discord.gg/HS6TabVCnC" target="_blank" class="discord-button">Join our Discord</a>
+<a href="https://discord.gg/HS6TabVCnC" target="_blank" class="discord-button">Join our Discord</a>    
 
     
     

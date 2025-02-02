@@ -1,4 +1,4 @@
-<img src="assets/images/front_page (1).jpg" alt="hearder" style="height: 600px; width: auto;">
+<img src="assets/images/front_page (1).jpg" alt="hearder" style="height: 600px; width: 700px;">
 
 # Welcome to My Blog!
 

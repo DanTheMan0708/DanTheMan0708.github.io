@@ -1,4 +1,4 @@
-![Fortnite Header]()
+![Fortnite Header](assets/images/page_front.png)
 
 
 # Welcome to My Blog!

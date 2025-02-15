@@ -1,3 +1,26 @@
+<div class="search-container">
+  <input type="text" id="searchInput" placeholder="Search projects...">
+  <button onclick="searchProjects()">Search</button>
+</div>
+
+<script>
+function searchProjects() {
+  const input = document.getElementById('searchInput').value.toLowerCase();
+  const projects = document.getElementsByClassName('project');
+
+  for (let i = 0; i < projects.length; i++) {
+    const project = projects[i];
+    const title = project.querySelector('h3').innerText.toLowerCase();
+
+    if (title.includes(input)) {
+      project.style.display = '';
+    } else {
+      project.style.display = 'none';
+    }
+  }
+}
+</script>
+
 ![Alt text](assets/images/front_page.jpg)
 
 

@@ -19,7 +19,7 @@ function searchProjects() {
     }
   }
 }
-</script>
+</script>  
 
 
 

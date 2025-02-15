@@ -28,12 +28,14 @@ include: [style.css]
 }
 
 
+/* Style the search container */
 .search-container {
   display: flex;
   align-items: center;
   margin-bottom: 20px;
 }
 
+/* Style the search input field */
 #searchInput {
   padding: 8px;
   font-size: 16px;
@@ -42,6 +44,7 @@ include: [style.css]
   border-radius: 4px;
 }
 
+/* Style the search button */
 .search-container button {
   padding: 8px 12px;
   font-size: 16px;
@@ -50,10 +53,24 @@ include: [style.css]
   border: none;
   border-radius: 4px;
   cursor: pointer;
+  margin-left: 10px;
 }
 
+/* Hover effect for the button */
 .search-container button:hover {
   background-color: #0056b3;
+}
+
+/* Style for posts */
+#posts-container .project {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+#posts-container .project h3 {
+  margin-top: 0;
 }
 /* Links inside Disqus */
 #disqus_thread a {

@@ -21,6 +21,8 @@ function searchProjects() {
 }
 </script>
 
+
+
 ![Alt text](assets/images/front_page.jpg)
 
 

@@ -1,8 +1,21 @@
+<!-- Search Bar -->
 <div class="search-container">
   <input type="text" id="searchInput" placeholder="Search projects...">
   <button onclick="searchProjects()">Search</button>
 </div>
 
+<!-- Posts -->
+<div id="posts-container">
+  {% for post in site.posts %}
+    <div class="project">
+      <h3>{{ post.title }}</h3>
+      <p>{{ post.excerpt }}</p>
+      <a href="{{ post.url | relative_url }}">Read More</a>
+    </div>
+  {% endfor %}
+</div>
+
+<!-- JavaScript for Search -->
 <script>
 function searchProjects() {
   const input = document.getElementById('searchInput').value.toLowerCase();
@@ -11,15 +24,15 @@ function searchProjects() {
   for (let i = 0; i < projects.length; i++) {
     const project = projects[i];
     const title = project.querySelector('h3').innerText.toLowerCase();
-
-    if (title.includes(input)) {
-      project.style.display = '';
+ect.style.display = '';
     } else {
       project.style.display = 'none';
     }
   }
 }
-</script>  
+</script>
+    if (title.includes(input)) {
+      proj
 
 
 

@@ -1,5 +1,9 @@
 
+<div class="search-container">
+  <input type="text" id="search-input" placeholder="Search...">
+</div>
 
+<ul id="results-container"></ul>
 
 
 ![Alt text](assets/images/front_page.jpg)

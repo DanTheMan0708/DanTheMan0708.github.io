@@ -1,6 +1,4 @@
-<script async src="https://cse.google.com/cse.js?cx=d78312a58c94b433b">
-</script>
-<div class="gcse-search"></div>  
+
 
 
 

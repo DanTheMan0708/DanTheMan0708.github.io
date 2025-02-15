@@ -3,12 +3,3 @@ title: My Gaming Blog
 description: A blog about Fortnite, Minecraft, and tech!
 
 
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-simple-search
-
-
-# Enable search data generation
-generate_search_data: true 

@@ -2,11 +2,5 @@ theme: jekyll-theme-midnight
 title: My Gaming Blog
 description: A blog about Fortnite, Minecraft, and tech!
 
-show_downloads: false
-
-
-github:
-  is_project_page: false
-
 
 

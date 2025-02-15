@@ -8,3 +8,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-simple-search
+
+
+# Enable search data generation
+generate_search_data: true

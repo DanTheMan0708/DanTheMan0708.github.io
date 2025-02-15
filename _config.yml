@@ -11,4 +11,4 @@ plugins:
 
 
 # Enable search data generation
-generate_search_data: true
+generate_search_data: true 
